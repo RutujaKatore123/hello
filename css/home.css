@@ -6,6 +6,8 @@
 }
 .c-img{
    width: 500px;
+   height: 340px;
+
 }
 .p{
    text-align: center;
@@ -18,10 +20,15 @@
    height: 40px;
 }
 .product-card{
-   width: 500px;
+   width: 490px;
    background-color: white;
    margin-left: 80px;
 }
 .card-group{
    display: flex;
+}
+.g-img{
+   width: 490px;
+   height: 340px;
+   padding-bottom:0px;
 }
