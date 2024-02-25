@@ -1,4 +1,4 @@
-# hello
+# hello ✋
 
 Welcome to Royal Dark Cafe.
 This cafe is opened to provide you a varities
@@ -17,4 +17,3 @@ like home , categories and About page.
 
 * By using html and css i have gave a proper stylling to this three pages.
 
-##😂😊
