@@ -6,7 +6,7 @@ of coffees for the coffee lovers . we have varities like cold coffee,black coffe
 
 if you are coffee lover just don't waste your visit our Royal Dark Cafe.
 
-![Screenshot](/img/cafe.png)
+![Screenshot](https://thumbs.dreamstime.com/b/cafe-interior-modern-decoration-45037541.jpg)
 
 ## About project
 
